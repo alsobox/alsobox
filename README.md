@@ -42,15 +42,6 @@
 
   <br/>
 
-  <h3>TELEMETRY_DATA</h3>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alsobox&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&title_color=0ea5e9&icon_color=7c3aed&text_color=ffffff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsobox&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true&title_color=0ea5e9&text_color=ffffff" />
-    </a>
-  </div>
 
   <br/>
 
